@@ -1,0 +1,13 @@
+img{
+    float: left;
+    width: 100%;
+    background-size: cover;
+    height: 100%;
+}
+h2{
+    color: red;
+}
+h2:hover{
+    color: green;
+    background-color: pink;
+}
